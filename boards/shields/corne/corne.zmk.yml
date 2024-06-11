@@ -10,5 +10,5 @@ features:
   - display
   - underglow
 siblings:
-  - my_corne_left
-  - my_corne_right
+  - corne_left
+  - corne_right

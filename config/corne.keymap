@@ -68,7 +68,7 @@
         };
 
         cut {
-            bindings = <&kp RC(Z)>;
+            bindings = <&kp RC(X)>;
             key-positions = <25 26>;
         };
 

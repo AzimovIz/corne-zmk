@@ -81,6 +81,11 @@
             bindings = <&kp LC(V)>;
             key-positions = <27 28>;
         };
+
+        close {
+            bindings = <&kp LA(F4)>;
+            key-positions = <4 16>;
+        };
     };
 
     keymap {

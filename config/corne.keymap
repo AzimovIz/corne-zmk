@@ -86,6 +86,11 @@
             bindings = <&kp LA(F4)>;
             key-positions = <4 16>;
         };
+
+        n1 {
+            bindings = <&kp N1>;
+            key-positions = <1 0>;
+        };
     };
 
     keymap {
